@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Passionate the data science which makes me start learning involves data. All the time, I spent a lot of time studying data science through various courses. To practice and hope that I will be a data scientist. 
 <!--
 **SiraHaruethaipree/SiraHaruethaipree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
