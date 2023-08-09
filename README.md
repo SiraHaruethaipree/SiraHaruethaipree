@@ -1,3 +1,4 @@
+![ไฟล์_000](https://github.com/SiraHaruethaipree/SiraHaruethaipree/assets/82432680/3839eea8-fd56-4611-8e03-e7156a74caca)
 <h1 align="center">Hi 👋, I'm Sira Haruethaipree</h1>
 <h3 align="center">Passionate the AI/ML/DataSci from Thailand</h3>
 
